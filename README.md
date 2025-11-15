@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 Atualmente, estudante de ADS </br>
-👩🏼‍🎓 - ela/dela
+📚 - Cursando Análise e Desenvolvimento de Sistemas </br>
+👩🏼‍🎓 - Pronomes: ela/dela
 
 <div> 
   <a href="https://instagram.com/rebecafranco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
