@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 Atualmente, estudante de ADS
+📚 Atualmente, estudante de ADS </br>
 👩🏼‍🎓 - ela/dela
 
 <div> 
