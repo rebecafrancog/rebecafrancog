@@ -12,20 +12,44 @@
 <div><img align="right" alt="" src="./src/d1ce4503b784df769368180584d02273.jpg" width="200" height="200"></div>
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas. Sou movida por uma paixão genuína por aprender. Encaro cada novo desafio como uma oportunidade de crescimento e me envolvo com dedicação em tudo o que estudo. Constantemente busco aprimorar minhas habilidades e a tecnologia não é apenas uma escolha profissional para mim — é um campo que me desperta curiosidade, motivação e entusiasmo todos os dias.</p>
 
+<div align="center">
+  <img 
+    alt="Python" 
+    title="Python"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+  <img 
+    alt="HTML" 
+    title="HTML"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    alt="CSS" 
+    title="CSS"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+  <img  
+    alt="JavaScript" 
+    title="JavaScript"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" 
+/>
+</div>
+
 #
 
 <div align="center"> 
   <a href="https://instagram.com/rebecafranco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rebecafrancog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rebecafrancog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
+  <a href="https://www.linkedin.com/in/rebecafrancog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+  <img align="center" alt="" height="190px" src="./src/7d07a255678962d30d8717dcf5dbd266.gif">
 </div>
 
 #
