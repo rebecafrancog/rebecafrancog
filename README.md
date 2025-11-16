@@ -27,5 +27,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/rebecafrancog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<img align="center" alt="" src="src/augustin-cart-gif-lofi-final.gif" width="800" height="720">
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+</div></br>
+<div><img align="right" alt="" src="./src/d1ce4503b784df769368180584d02273.jpg" width="200" height="200"></div>
+<div><img align="right" alt="" src="./src/augustin-cart-gif-lofi-final.gif" width="400" height="320"></div>
