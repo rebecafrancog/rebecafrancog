@@ -17,13 +17,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<img align="right" alt="" src="./src/0952a4793c9caa2a65a9be9f9584039a.gif" width="200" height="200">
+
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Sou movida por uma paixão genuína por aprender. Encaro cada novo desafio como uma oportunidade de crescimento e me envolvo com dedicação em tudo o que estudo. Constantemente busco aprimorar minhas habilidades e a tecnologia não é apenas uma escolha profissional para mim — é um campo que me desperta curiosidade, motivação e entusiasmo todos os dias.</p>
 </br>
-<p>👩🏼‍🎓 - Pronomes: ela/dela</p>
-----------------------------------------------------------
-<h4>Contact:</h4>
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/rebecafranco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rebecafrancog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebecafrancog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+</br>
+<img align="center" alt="" src="src/augustin-cart-gif-lofi-final.gif" width="800" height="720">
+
