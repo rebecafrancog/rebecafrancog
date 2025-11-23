@@ -9,7 +9,6 @@
 
 <img align="right" alt="" src="./src/0952a4793c9caa2a65a9be9f9584039a.gif" width="200" height="200">
 
-<div><img align="right" alt="" src="./src/d1ce4503b784df769368180584d02273.jpg" width="200" height="200"></div>
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas. Sou movida por uma paixão genuína por aprender. Encaro cada novo desafio como uma oportunidade de crescimento e me envolvo com dedicação em tudo o que estudo. Constantemente busco aprimorar minhas habilidades e a tecnologia não é apenas uma escolha profissional para mim — é um campo que me desperta curiosidade, motivação e entusiasmo todos os dias.</p>
 
 <div align="center">
