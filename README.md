@@ -41,8 +41,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" 
 />
  <div align="center"> 
-  <a href="https://portfoliorebeca.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
-  <img align="center" alt="" height="190px" src="./src/7d07a255678962d30d8717dcf5dbd266.gif">
+  <a href="https://portfoliorebeca.vercel.app" target="_blank"><img align="center" alt="" height="190px" src="./src/IMG_0313.jpeg">
 </div>
 
 #
