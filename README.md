@@ -40,8 +40,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" 
 />
- <div align="center"> 
-  <a href="https://portfoliorebeca.vercel.app" target="_blank"><img align="center" alt="" height="190px" src="./src/IMG_0313.jpeg">
 </div>
 
 #
